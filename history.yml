@@ -1,0 +1,9 @@
+---
+valuation: "data: {\"current\":1,\"last\":31,\"id\":\"valuation\",\"updatedAt\":1612673943460}\n\n"
+karma: "data: {\"current\":17468,\"last\":173061,\"id\":\"karma\",\"updatedAt\":1612673943460}\n\n"
+synergy: "data: {\"value\":9,\"id\":\"synergy\",\"updatedAt\":1612673943461}\n\n"
+buzzwords: "data: {\"items\":[{\"label\":\"Paradigm shift\",\"value\":4},{\"label\":\"Pivoting\",\"value\":1},{\"label\":\"Synergy\",\"value\":1},{\"label\":\"Turn-key\",\"value\":6},{\"label\":\"Leverage\",\"value\":10},{\"label\":\"Streamlininess\",\"value\":4},{\"label\":\"Enterprise\",\"value\":1},{\"label\":\"Exit
+  strategy\",\"value\":7},{\"label\":\"Web 2.0\",\"value\":2}],\"id\":\"buzzwords\",\"updatedAt\":1612673943461}\n\n"
+convergence: "data: {\"points\":[{\"x\":37,\"y\":31},{\"x\":38,\"y\":11},{\"x\":39,\"y\":41},{\"x\":40,\"y\":25},{\"x\":41,\"y\":20},{\"x\":42,\"y\":5},{\"x\":43,\"y\":25},{\"x\":44,\"y\":41},{\"x\":45,\"y\":6},{\"x\":46,\"y\":19}],\"id\":\"convergence\",\"updatedAt\":1612673943462}\n\n"
+weather: "data: {\"temp\":\"29 &deg;F\",\"condition\":\"Clouds\",\"title\":\"Boston
+  Weather\",\"color\":\"#0065FF\",\"climacon\":\"cloud\",\"id\":\"weather\",\"updatedAt\":1612673931444}\n\n"

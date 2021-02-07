@@ -1,0 +1,45 @@
+// ----------------------------------------------------------------------------
+// Sass declarations
+// ----------------------------------------------------------------------------
+$background-color:  #ec663c;
+$button-color:  #33a8b5;
+
+$title-color:       rgba(255, 255, 255, 0.7);
+$moreinfo-color:    rgba(255, 255, 255, 0.7);
+
+// ----------------------------------------------------------------------------
+// Widget-text styles
+// ----------------------------------------------------------------------------
+.widget-text {
+
+  background-color: $background-color;
+
+  .title {
+    color: $title-color;
+  }
+
+  .more-info {
+    color: $moreinfo-color;
+  }
+
+  .updated-at {
+    color: rgba(255, 255, 255, 0.7);
+  }
+
+
+  &.large h3 {
+    font-size: 65px;
+  }
+
+  button {
+    width: 40%;
+    background-color: $button-color;
+    color: white;
+    margin-top: 10%;
+    padding: 10px 0;
+    border: none;
+    border: solid 1px rgb(128, 128, 128);
+    border-radius: 10px;
+    cursor: pointer;
+  }
+}
